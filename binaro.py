@@ -6,4 +6,4 @@ def binario_a_decimal(binario):
         return False
 
 
-print(binario_a_decimal("fgdgr"))
+print(binario_a_decimal("11100111"))
