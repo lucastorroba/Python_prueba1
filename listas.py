@@ -4,7 +4,7 @@ def estaEnRango(valor, minimo, maximo):
 def estaEnLista(valor, lista):
     return valor in lista
 
-num1 = 44
+num1 = 45
 lista1 = [6,14,11,78,5]
 max = 44
 min = 22
